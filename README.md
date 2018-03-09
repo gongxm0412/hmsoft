@@ -1,0 +1,2 @@
+# hmsoft
+blog
